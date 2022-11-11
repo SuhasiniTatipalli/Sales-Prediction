@@ -154,9 +154,5 @@ MSE: 1,375,628.19
 RMSE: 1,172.87 
 R2: 0.50
 
-Recommendations:
 
-
-
-Limitations & Next Steps:
 
